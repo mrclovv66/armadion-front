@@ -71,7 +71,7 @@
             <div class="close-filters-img-container">
               <img
                 class="close-filters-img"
-                src="../svg/close-img-2.svg"
+                src="../public/svg/close-img-2.svg"
                 alt=""
                 @click="closeSlideFilters"
               />
